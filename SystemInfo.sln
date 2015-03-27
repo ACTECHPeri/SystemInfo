@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SysInf", "SysInf\SysInf.csproj", "{8B9BCC32-1CD5-4651-BFF3-084A48936DDC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemUtils", "SystemUtils\SystemUtils.csproj", "{81FF0B8D-C646-4FB9-8F28-094BB11C796E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{8B9BCC32-1CD5-4651-BFF3-084A48936DDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B9BCC32-1CD5-4651-BFF3-084A48936DDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B9BCC32-1CD5-4651-BFF3-084A48936DDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81FF0B8D-C646-4FB9-8F28-094BB11C796E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81FF0B8D-C646-4FB9-8F28-094BB11C796E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81FF0B8D-C646-4FB9-8F28-094BB11C796E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81FF0B8D-C646-4FB9-8F28-094BB11C796E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
