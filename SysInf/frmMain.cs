@@ -20,7 +20,6 @@ namespace SysInf
         {
             string output = ServerSystem.GetMachinePerformance();
             lblSysInf.Text = output;
-            //MessageBox.Show(output);
         }
     }
 }
